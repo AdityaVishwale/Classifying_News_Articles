@@ -51,9 +51,9 @@ The system can be extended further by incorporating advanced embeddings (Word2Ve
 ## Technologies & Tools Used
 - Programming Language: Python.
 - Libraries:
-  Pandas, NumPy
-  NLTK
-  Scikit-learn
-  TensorFlow / Keras
-  Matplotlib, Seaborn
+  Pandas, NumPy,
+  NLTK,
+  Scikit-learn,
+  TensorFlow / Keras,
+  Matplotlib, Seaborn.
 - Development Environment: Jupyter Notebook.
