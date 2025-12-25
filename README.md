@@ -57,3 +57,4 @@ The system can be extended further by incorporating advanced embeddings (Word2Ve
   TensorFlow / Keras,
   Matplotlib, Seaborn.
 - Development Environment: Jupyter Notebook.
+- Dataset - huffpost_news_data
