@@ -15,3 +15,16 @@
 - Removed punctuation, numbers, and stopwords
 - Tokenized headlines for model input
 - Encoded categorical labels into numerical form
+## 2. Feature Engineering
+- TF-IDF Vectorization for classical machine learning
+- Tokenization & Padding for deep learning models
+## 3. Model Development
+Model 1: TF-IDF + Logistic Regression
+- A traditional machine learning approach
+- Efficient and interpretable
+- Performs well on short text such as headlines
+Model 2: LSTM Neural Network
+- Captures sequential and contextual word patterns\
+- Uses word embeddings for semantic understanding
+- Designed to handle complex language structures
+
