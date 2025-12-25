@@ -46,7 +46,7 @@ Models were evaluated using:
 # Conclusion
 - This project demonstrates the effectiveness of NLP-based text classification for real-world applications such as news aggregation and content recommendation. It highlights the strengths of both traditional machine learning and deep learning approaches and emphasizes the importance of preprocessing and feature selection in text-based tasks.
 
-The system can be extended further by incorporating advanced embeddings (Word2Vec, BERT), hyperparameter tuning, or real-time deployment using web frameworks.
+- The system can be extended further by incorporating advanced embeddings (Word2Vec, BERT), hyperparameter tuning, or real-time deployment using web frameworks.
 
 ## Technologies & Tools Used
 - Programming Language: Python.
