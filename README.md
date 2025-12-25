@@ -23,6 +23,7 @@ Model 1: TF-IDF + Logistic Regression
 - A traditional machine learning approach
 - Efficient and interpretable
 - Performs well on short text such as headlines
+##  
 Model 2: LSTM Neural Network
 - Captures sequential and contextual word patterns\
 - Uses word embeddings for semantic understanding
